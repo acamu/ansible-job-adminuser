@@ -1,0 +1,4 @@
+adm_user_name: 'acam'
+adm_user_password: 'Passw01#'
+adm_user_groups:
+- wheel
